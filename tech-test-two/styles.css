@@ -1,0 +1,22 @@
+#hive {
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.wasp {
+    border: 1px solid black;
+    padding: 5px;
+    margin: 5px;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+}
+
+button {
+    height: 30px;
+    width: 60px;
+    margin: 5px 0;
+    border-radius: 5px;
+}
